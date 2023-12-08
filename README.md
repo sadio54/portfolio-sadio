@@ -2,7 +2,7 @@
 
 # Portfolio Personnel
 
-Bienvenue sur mon portfolio personnel ! Ce site a été créé pour mettre en avant mes compétences, projets et expériences professionnelles. Vous pouvez le visualiser en ligne [ici](https://sadio54.github.io/mon-portfolio/).
+Bienvenue sur mon portfolio personnel ! Ce site a été créé pour mettre en avant mes compétences, projets et expériences professionnelles. Vous pouvez le visualiser en ligne [ici]( https://sadio54.github.io/portfolio-sadio/).
 
 ## Technologies Utilisées
 
